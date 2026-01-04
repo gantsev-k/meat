@@ -5,6 +5,17 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import ProductDescriptionEnhancer from '@/components/site/product-description-enhancer';
 
+// ✅ Добавленная функция для статической генерации
+export async function generateStaticParams() {
+  // Импортируем данные о продуктах
+  const { products } = await import('@/lib/data');
+  
+  // Преобразуем массив products в массив объектов с полем `id`
+  return products.map((product) => ({
+    id: product.id, // Убедитесь, что в объекте product есть поле `id`
+  }));
+}
+
 export default async function ProductDetailPage({ params }: { params: { id: string } }) {
   const product = getProductById(params.id);
 
