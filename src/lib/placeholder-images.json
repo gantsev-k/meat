@@ -1,3 +1,112 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-main",
+      "description": "A large piece of raw meat on a rustic wooden cutting board.",
+      "imageUrl": "https://images.unsplash.com/photo-1612156502174-bbbad9882af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyYXclMjBtZWF0JTIwY3V0dGluZyUyMGJvYXJkfGVufDB8fHx8MTc2NzQ5OTcwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "raw meat cutting board"
+    },
+    {
+      "id": "beef-tenderloin",
+      "description": "A fresh cut of beef tenderloin.",
+      "imageUrl": "https://images.unsplash.com/photo-1522579431750-7de6093e14d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiZWVmJTIwdGVuZGVybG9pbnxlbnwwfHx8fDE3Njc0OTk3MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beef tenderloin"
+    },
+    {
+      "id": "beef-ribs",
+      "description": "Raw beef ribs ready for cooking.",
+      "imageUrl": "https://images.unsplash.com/photo-1757967708227-c67e37e7c96a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyYXclMjBiZWVmJTIwcmlic3xlbnwwfHx8fDE3Njc0OTk3MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "raw beef ribs"
+    },
+    {
+      "id": "beef-brisket",
+      "description": "A whole beef brisket.",
+      "imageUrl": "https://images.unsplash.com/photo-1614231554750-8835f3fe610a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiZWVmJTIwYnJpc2tldHxlbnwwfHx8fDE3Njc0OTk3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beef brisket"
+    },
+    {
+      "id": "pork-neck",
+      "description": "Juicy pork neck steak.",
+      "imageUrl": "https://images.unsplash.com/photo-1592877186734-6e558cf0dfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JrJTIwbmVja3xlbnwwfHx8fDE3Njc0OTk3MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pork neck"
+    },
+    {
+      "id": "pork-ribs",
+      "description": "A rack of pork ribs.",
+      "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3JrJTIwcmlic3xlbnwwfHx8fDE3Njc0OTk3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pork ribs"
+    },
+    {
+      "id": "pork-belly",
+      "description": "Raw pork belly with skin.",
+      "imageUrl": "https://images.unsplash.com/photo-1612895572325-f029a8494bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3JrJTIwYmVsbHl8ZW58MHx8fHwxNzY3NDk5NzA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pork belly"
+    },
+    {
+      "id": "lamb-shoulder",
+      "description": "A fresh cut of lamb shoulder.",
+      "imageUrl": "https://images.unsplash.com/photo-1588063401672-23ca19fa4c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsYW1iJTIwc2hvdWxkZXJ8ZW58MHx8fHwxNzY3NDk5NzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lamb shoulder"
+    },
+    {
+      "id": "lamb-chops",
+      "description": "A set of lamb chops.",
+      "imageUrl": "https://images.unsplash.com/photo-1507150370052-1e798df49f29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsYW1iJTIwY2hvcHN8ZW58MHx8fHwxNzY3NDk5NzA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lamb chops"
+    },
+    {
+      "id": "whole-chicken",
+      "description": "A whole raw chicken.",
+      "imageUrl": "https://images.unsplash.com/photo-1672787153652-b3b9d92f3e8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyYXclMjB3aG9sZSUyMGNoaWNrZW58ZW58MHx8fHwxNzY3NDk5NzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "raw whole chicken"
+    },
+    {
+      "id": "whole-duck",
+      "description": "A whole raw duck.",
+      "imageUrl": "https://images.unsplash.com/photo-1745240598974-4ac3129b920b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyYXclMjB3aG9sZSUyMGR1Y2t8ZW58MHx8fHwxNzY3NDk5NzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "raw whole duck"
+    },
+    {
+      "id": "whole-lamb",
+      "description": "A whole lamb carcass for a feast.",
+      "imageUrl": "https://images.unsplash.com/photo-1572788493895-3a9a445fe36e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsYW1iJTIwY2FyY2Fzc3xlbnwwfHx8fDE3Njc0OTk3MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lamb carcass"
+    },
+    {
+      "id": "smoked-sausage",
+      "description": "Artisanal smoked sausages.",
+      "imageUrl": "https://images.unsplash.com/photo-1588793155246-c2bab6834670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzbW9rZWQlMjBzYXVzYWdlfGVufDB8fHx8MTc2NzQ5OTcwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smoked sausage"
+    },
+    {
+      "id": "cured-meat",
+      "description": "Slices of cured meat.",
+      "imageUrl": "https://images.unsplash.com/photo-1529241160658-a8a2a0d86620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjdXJlZCUyMG1lYXR8ZW58MHx8fHwxNzY3NDk5NzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cured meat"
+    },
+    {
+      "id": "about-farm",
+      "description": "Cows grazing in a green pasture.",
+      "imageUrl": "https://images.unsplash.com/photo-1713208512770-82e4c05498f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3dzJTIwcGFzdHVyZXxlbnwwfHx8fDE3Njc0NTYwNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cows pasture"
+    },
+    {
+      "id": "about-butcher",
+      "description": "A butcher skillfully cutting meat.",
+      "imageUrl": "https://images.unsplash.com/photo-1511018055524-56183e65e850?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxidXRjaGVyJTIwd29ya2luZ3xlbnwwfHx8fDE3Njc0OTk3MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "butcher working"
+    },
+    {
+      "id": "about-aging",
+      "description": "Dry aging room for meat.",
+      "imageUrl": "https://images.unsplash.com/photo-1677050205812-1fbf1a832efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtZWF0JTIwYWdpbmd8ZW58MHx8fHwxNzY3NDk5NzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "meat aging"
+    },
+    {
+      "id": "contacts-map",
+      "description": "Map showing the location of the store.",
+      "imageUrl": "https://images.unsplash.com/photo-1717343824623-06293a62a70d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2NzQxMjY0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    }
+  ]
 }
